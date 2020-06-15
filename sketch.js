@@ -30,6 +30,7 @@ let ninePressed = false;
 
 function setup() {
   createCanvas(400, 400);
+  frameRate(1);
 }
 
 function draw() {
